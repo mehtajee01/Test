@@ -14,6 +14,6 @@ d
 6
 good
 end
-mother
+mother 1
 no1
 2
