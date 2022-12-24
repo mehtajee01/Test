@@ -12,5 +12,5 @@ d
 
 6
 good
-end tool
+end
 mother
